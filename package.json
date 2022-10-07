@@ -1,0 +1,22 @@
+{
+  "name": "w6-weekly-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ildestram/W6-WEEKLY-PROJECT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ildestram/W6-WEEKLY-PROJECT/issues"
+  },
+  "homepage": "https://github.com/ildestram/W6-WEEKLY-PROJECT#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
